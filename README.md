@@ -49,7 +49,7 @@ Here we provide an implementation of Initializing Then Refining (ITR) in PyTorch
 - `main.py`: the entry point for training and testing.
 - `test_X.py` and `test_AX.py`: about downstream tasks.
 
-Finally, `main.py` puts all of the above together and may be used to execute a full training run on Cora.
+Finally, `main.py` puts all of the above together and may be used to execute a full training run on Cora (or Citeseer).
 
 <span id="jump2"></span>
 
