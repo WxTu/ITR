@@ -64,11 +64,11 @@ Any discussions or concerns are welcomed!
 ## Citation & License
 If you use this code for your research, please cite our paper.
 ```
-@inproceedings{TuDeep,
-  title={Deep Fusion Clustering Network},
-  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Guo, Xifeng and Cai, Zhiping and zhu, En and Cheng, Jieren},
-  booktitle={The Thirty-Fifth AAAI Conference on Artificial Intelligence},
-  year={2021}
+@inproceedings{ITR2022,
+  title={Initializing Then Refining: A Simple Graph Attribute Imputation Network},
+  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Yue, Liu and Cai, Zhiping and zhu, En and Changwang, Zhang and Cheng, Jieren},
+  booktitle={The 31st International Joint Conference on Artificial Intelligence},
+  year={2022}
 }
 ```
 
@@ -79,11 +79,5 @@ The code is released for academic research use only. For commercial use, please 
 
 ## Acknowledgement
 
-D. Bo, X. Wang, C. Shi, et al. Structural Deep Clustering Network. In WWW, 2020.<br/> 
---[https://github.com/bdy9527/SDCN](https://github.com/bdy9527/SDCN)
-
-X. Guo, L. Gao, X. Liu, et al. Improved Deep Embedded Clustering with Local Structure Preservation. In IJCAI, 2017.<br/>
---[https://github.com/XifengGuo/IDEC](https://github.com/XifengGuo/IDEC)
-
-J. Xie, R. Girshick, and A. Farhadi. Unsupervised Deep Embedding for Clustering Analysis. In ICML, 2016.<br/>
---[https://github.com/vlukiyanov/pt-dec](https://github.com/vlukiyanov/pt-dec)
+X. Chen, S. Chen, J. Yao, et al. Learning on Attribute-Missing Graphs. IEEE TPAMI, 2022.<br/> 
+--[https://github.com/xuChenSJTU/SAT-master-online](https://github.com/xuChenSJTU/SAT-master-online)
