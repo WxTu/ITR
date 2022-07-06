@@ -1,10 +1,10 @@
-[python-img]: https://img.shields.io/github/languages/top/WxTu/DFCN?color=lightgrey
-[stars-img]: https://img.shields.io/github/stars/WxTu/DFCN?color=yellow
-[stars-url]: https://github.com/WxTu/DFCN/stargazers
-[fork-img]: https://img.shields.io/github/forks/WxTu/DFCN?color=lightblue&label=fork
-[fork-url]: https://github.com/WxTu/DFCN/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=WxTu/DFCN
-[adgc-url]: https://github.com/WxTu/DFCN
+[python-img]: https://img.shields.io/github/languages/top/WxTu/ITR?color=lightgrey
+[stars-img]: https://img.shields.io/github/stars/WxTu/ITR?color=yellow
+[stars-url]: https://github.com/WxTu/ITR/stargazers
+[fork-img]: https://img.shields.io/github/forks/WxTu/ITR?color=lightblue&label=fork
+[fork-url]: https://github.com/WxTu/ITR/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=WxTu/ITR
+[adgc-url]: https://github.com/WxTu/ITR
 
 
 ## Paper
@@ -13,11 +13,11 @@
 [![GitHub forks][fork-img]][fork-url]
 [![visitors][visitors-img]][adgc-url]
 
-Source code for the paper "Deep Fusion Clustering Network"<br>
+Source code for the paper "Initializing Then Refining: A Simple Graph Attribute Imputation Network"<br>
 
-W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng.<br>
+W. Tu, S. Zhou, X. Liu, Y. Liu, Z. Cai, E. zhu, C. Zhang, and J. Cheng.<br>
 
-Accepted by AAAI2021. [[Paper]](https://arxiv.org/pdf/2012.09600.pdf) [[Poster]](./figure/DFCN_Poster.pdf) <br>
+Accepted by IJCAI2022. [[Paper]](https://arxiv.org/pdf/2012.09600.pdf) <br>
 
 
 
