@@ -25,35 +25,31 @@ Accepted by IJCAI 2022. [[Paper]](https://github.com/WxTu/ITR/blob/master/ITR-fi
 
 Clone this repo.
 ```bash
-git clone https://github.com/WxTu/DFCN.git
+git clone https://github.com/WxTu/ITR.git
 ```
 
-* Windows 10 or Linux 18.04
-* Python 3.7.5
-* [Pytorch (1.2.0+)](https://pytorch.org/)
-* Numpy 1.18.0
-* Sklearn 0.21.3
-* Torchvision 0.3.0
-* Matplotlib 3.2.1
+* Python 3.7.11
+* [Pytorch (1.9.0)](https://pytorch.org/)
+* Numpy 1.25.1
+* Sklearn 1.0.2
+* Torchvision 0.10.0
+* Matplotlib 3.5.1
 
 
 ## Preparation
 
-We adopt six datasets in total, including three graph datasets (ACM, DBLP, and CITE) and three non-graph datasets (USPS, HHAR, and REUT). To train a model on these datasets, please download them from [Baidu Cloud](https://pan.baidu.com/s/1ykIPGLXLMtMqtgpXOq3_sQ) (access code: 4622) or [SDCN](https://github.com/bdy9527/SDCN).
+We adopt four datasets in total, including Cora, Citeseer, Amazon Computer, and Amazon Photo. To train a model on these datasets, please download them from [Baidu Cloud](https://pan.baidu.com/s/1ykIPGLXLMtMqtgpXOq3_sQ) (access code: 4622).
 
 ## Code Structure & Usage
 
-Here we provide an implementation of Deep Fusion Clustering Network (DFCN) in PyTorch, along with an execution example on the DBLP dataset (due to file size limit). The repository is organised as follows:
+Here we provide an implementation of Initializing Then Refining (ITR) in PyTorch, along with an execution example on the Cora (or Citeseer) dataset (due to file size limit). The repository is organised as follows:
 
-- `load_data.py`: processes the dataset before passing to the network.
-- `DFCN.py`: defines the architecture of the whole network.
-- `IGAE.py`: defines the improved graph autoencoder.
-- `AE.py`: defines the autoencoder.
-- `opt.py`: defines some hyper-parameters.
+- `ITR.py`: defines the architecture of the whole network.
 - `utils.py`: defines the lr-policy, metrics, and others.
-- `train.py`: the entry point for training and testing.
+- `main.py`: the entry point for training and testing.
+- `test_X.py` and `test_AX.py`: about downstream tasks.
 
-Finally, `main.py` puts all of the above together and may be used to execute a full training run on DBLP.
+Finally, `main.py` puts all of the above together and may be used to execute a full training run on Cora.
 
 <span id="jump2"></span>
 
