@@ -42,7 +42,7 @@ We adopt four datasets in total, including Cora, Citeseer, Amazon Computer, and 
 
 ## Code Structure & Usage
 
-Here we provide an implementation of Initializing Then Refining (ITR) in PyTorch, along with an execution example on the Cora (or Citeseer) dataset (due to file size limit). The repository is organised as follows:
+Here we provide an implementation of Initializing Then Refining (ITR) in PyTorch, along with an execution example on Cora (or Citeseer) dataset (due to file size limit). The repository is organised as follows:
 
 - `ITR.py`: defines the architecture of the whole network.
 - `utils.py`: defines some functions about data processing, evaluation metrics, and others.
