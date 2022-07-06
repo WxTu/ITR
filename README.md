@@ -38,7 +38,7 @@ git clone https://github.com/WxTu/ITR.git
 
 ## Preparation
 
-We adopt four datasets in total, including Cora, Citeseer, Amazon Computer, and Amazon Photo. To train a model on these datasets, please download them from [Baidu Cloud](https://pan.baidu.com/s/1mtmLy7ottCVB6fAjnlUo9A) (access code: 1234).
+We adopt four datasets in total, including Cora, Citeseer, Amazon Computer, and Amazon Photo. To train ITR on these datasets, please download them from [Baidu Cloud](https://pan.baidu.com/s/1mtmLy7ottCVB6fAjnlUo9A) (access code: 1234).
 
 
 ## Code Structure & Usage
