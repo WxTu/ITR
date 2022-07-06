@@ -17,7 +17,7 @@ Source code for the paper "Initializing Then Refining: A Simple Graph Attribute 
 
 W. Tu, S. Zhou, X. Liu, Y. Liu, Z. Cai, E. zhu, C. Zhang, and J. Cheng.<br>
 
-Accepted by IJCAI2022. [[Paper]](https://arxiv.org/pdf/2012.09600.pdf) <br>
+Accepted by IJCAI 2022. [[Paper]](https://github.com/WxTu/ITR/blob/master/ITR-final.pdf) <br>
 
 
 
