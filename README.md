@@ -54,7 +54,7 @@ Finally, `main.py` puts all of the above together and may be used to execute a f
 
 <span id="jump2"></span>
 
-## Visualization
+## Architecture
 <div align=center><img width="800" height="330" src="./figure/1.jpg"/></div>
 
 ## Contact
