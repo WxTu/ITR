@@ -15,7 +15,7 @@
 
 Source code for the paper "Initializing Then Refining: A Simple Graph Attribute Imputation Network"<br>
 
-W. Tu, S. Zhou, X. Liu, Y. Liu, Z. Cai, E. zhu, C. Zhang, and J. Cheng.<br>
+W. Tu, S. Zhou, X. Liu, Y. Liu, Z. Cai, E. Zhu, C. Zhang, and J. Cheng.<br>
 
 Accepted by IJCAI 2022. [[Paper]](https://github.com/WxTu/ITR/blob/master/ITR-final.pdf) <br>
 
@@ -67,7 +67,7 @@ If you use this code for your research, please cite our paper.
 ```
 @inproceedings{ITR2022,
   title={Initializing Then Refining: A Simple Graph Attribute Imputation Network},
-  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Yue, Liu and Cai, Zhiping and zhu, En and Changwang, Zhang and Cheng, Jieren},
+  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Yue, Liu and Cai, Zhiping and Zhu, En and Changwang, Zhang and Cheng, Jieren},
   booktitle={Proceedings of the The Thirty-First International Joint Conference on Artificial Intelligence},
   pages={3494-3500},
   year={2022}
