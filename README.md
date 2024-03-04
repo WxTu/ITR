@@ -67,7 +67,7 @@ If you use this code for your research, please cite our paper.
 ```
 @inproceedings{ITR2022,
   title={Initializing Then Refining: A Simple Graph Attribute Imputation Network},
-  author={Tu, Wenxuan and Zhou, Sihang and Liu, Xinwang and Liu, Yue and Cai, Zhiping and Zhu, En and Zhang, Changwang and Cheng, Jieren},
+  author={Wenxuan Tu and Sihang Zhou and Xinwang Liu and Yue Liu and Zhiping Cai and En Zhu and Changwang Zhang and Jieren Cheng},
   booktitle={Proceedings of The Thirty-First International Joint Conference on Artificial Intelligence},
   pages={3494-3500},
   year={2022}
